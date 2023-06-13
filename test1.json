@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/test1.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/test1.yaml",
+            "name": "Foo"
+        }
+    ]
+}
